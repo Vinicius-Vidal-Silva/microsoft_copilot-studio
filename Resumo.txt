@@ -1,0 +1,23 @@
+O Microsoft Copilot Studio é uma plataforma completa que permite criar agentes de IA personalizados para atender às necessidades específicas de sua organização. Existem três abordagens principais para criar um Copilot: baseado em modelo, baseado em descrição com IA e em branco.
+
+1. Criar um Copilot baseado em modelo:
+
+O Copilot Studio oferece uma biblioteca de agentes (em versão prévia) que permite aos usuários obter uma vantagem inicial escolhendo agentes com base em cenários comumente usados. Esses modelos pré-construídos servem como ponto de partida, permitindo personalizar funcionalidades e fluxos de conversa conforme necessário. citeturn0search9
+
+2. Criar um Copilot baseado em descrição com IA:
+
+Com os recursos de IA generativa do Copilot Studio, é possível criar agentes descrevendo o que você deseja que o agente faça, e a IA gera automaticamente os tópicos e fluxos de conversa correspondentes. Essa abordagem reduz a necessidade de autoria manual e amplia significativamente o escopo do conhecimento do agente e sua capacidade de interagir com os usuários. citeturn0search7
+
+3. Criar um Copilot em branco:
+
+Ao iniciar um projeto em branco, você tem total liberdade para definir os tópicos e fluxos de conversa do agente do zero. Essa abordagem é ideal para necessidades altamente específicas que não podem ser atendidas por modelos ou pela geração automática de tópicos. Você pode aproveitar os recursos de IA generativa para auxiliar na criação de respostas e no entendimento da linguagem natural, mesmo em agentes criados do zero. citeturn0search7
+
+Resumo:
+
+- Baseado em modelo: Oferece um ponto de partida rápido com funcionalidades pré-definidas, economizando tempo na configuração inicial. No entanto, pode exigir ajustes para alinhar completamente com as necessidades específicas da organização.
+
+- **Baseado em descrição com IA:** Facilita a criação automatizada de tópicos e fluxos de conversa a partir de descrições em linguagem natural, reduzindo o esforço manual. É uma abordagem eficiente para expandir rapidamente as capacidades do agente.
+
+- Em branco: Proporciona máxima flexibilidade e controle sobre o comportamento do agente, permitindo uma personalização completa. Embora exija mais tempo e esforço, é ideal para soluções altamente customizadas.
+
+Cada abordagem oferece vantagens distintas, permitindo que você escolha a que melhor se adapta aos objetivos e recursos disponíveis para o desenvolvimento do seu Copilot.
